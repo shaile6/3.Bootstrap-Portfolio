@@ -1,0 +1,85 @@
+body {
+  background: #c8a2c8;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  color: indigo;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: blueviolet;
+}
+h2 {
+  color: blueviolet;
+}
+
+img {
+  width: 400px;
+  border: solid indigo;
+  border-radius: 5px;
+  margin: 30px auto;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+}
+
+.hero {
+  font-size: 1.25rem;
+  margin: auto 30px;
+  color: indigo;
+}
+
+.lead {
+  color: black;
+}
+.jumbotron-fluid {
+  background: rgba(222, 125, 154, 0.6);
+}
+
+.work {
+  display: grid;
+  margin: 30px 30px;
+  font-size: 1.25rem;
+  color: indigo;
+}
+
+.card {
+  background: rgba(222, 125, 154, 0.6);
+}
+
+.card-img-top {
+  width: 400px;
+}
+
+.card-body {
+  color: black;
+}
+
+.skills {
+  margin: auto 30px;
+}
+
+h6 {
+  font-size: 1.25rem;
+  color: indigo;
+}
+
+.contact {
+  margin: 30px 30px;
+  text-align: center;
+}
+
+button {
+  color: blueviolet;
+  background: #c8a2c8;
+  border: outset grey;
+}
+
+button:hover {
+  box-shadow: 3px 3px, -1em 0 0.4em rgba(0, 0, 255, 0.2);
+}
